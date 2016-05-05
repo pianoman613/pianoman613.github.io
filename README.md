@@ -19,7 +19,7 @@
 		background-color: rgba(0,0,0,0.5);
 		padding: 20px;
 		width: 300px;
-		margin : 
+		 
 }
 			</style> 
 </head>
